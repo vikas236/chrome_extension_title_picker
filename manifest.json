@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "name": "Title Picker",
-  "version": "1",
+  "version": "0",
   "description": "Get Title of a Page",
   "icons": {
-    "128": "hello.png"
+    "128": "hippo.png"
   },
-  "author": "Asa",
+  "author": "vi",
   "permissions": [
     "tabs"
   ],
