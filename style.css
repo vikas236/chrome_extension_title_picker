@@ -4,11 +4,6 @@
   font-family: "Poppins", sans-serif;
 }
 
-html {
-  background: transparent;
-  border-radius: 10px;
-}
-
 h1 {
   font-size: 18px;
 }
@@ -22,4 +17,10 @@ button {
   color: #eaf2ef;
   border: none;
   border-radius: 5px;
+}
+
+input {
+  font-size: 13px;
+  color: #0d090a;
+  font-weight: 600;
 }
